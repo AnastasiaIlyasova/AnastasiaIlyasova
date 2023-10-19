@@ -1,5 +1,15 @@
 ### Hi there 👋
 
+###About me
+-I'm currently learning React as framework and LESS;
+-My English level is B2;
+
+###My last projects
+- https://anastasiailyasova.github.io/Card/ - верстка карточки;
+- https://anastasiailyasova.github.io/Weather/ - прогноз погоды;
+- https://652646701419ad16541e5fa6--gentle-druid-f381ed.netlify.app/ - авторизация пользователя;
+- https://anastasiailyasova.github.io/constructor/ - конструктор бургера;
+- https://anastasiailyasova.github.io/testLab/ - лендинг с реализацией слайдера и скролла до элемента.
 <!--
 **AnastasiaIlyasova/AnastasiaIlyasova** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
