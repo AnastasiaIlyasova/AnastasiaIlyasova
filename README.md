@@ -1,4 +1,4 @@
-### Hi there 👋
+<h1> Hi there 👋 </h1>
 
 <h2>About me</h2>
 -I'm currently learning React as framework and LESS; <br>
