@@ -1,10 +1,10 @@
 ### Hi there 👋
 
-###About me
+<h2>About me</h2>
 -I'm currently learning React as framework and LESS;
 -My English level is B2;
 
-###My last projects
+<h2>My last projects</h2>
 - https://anastasiailyasova.github.io/Card/ - верстка карточки;
 - https://anastasiailyasova.github.io/Weather/ - прогноз погоды;
 - https://652646701419ad16541e5fa6--gentle-druid-f381ed.netlify.app/ - авторизация пользователя;
