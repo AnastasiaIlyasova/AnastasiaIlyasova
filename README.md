@@ -9,7 +9,7 @@ React projects: <br>
 Js native projects:<br>
 1) https://anastasiailyasova.github.io/Weather/ - прогноз погоды;<br>
 2) https://652646701419ad16541e5fa6--gentle-druid-f381ed.netlify.app/ - авторизация пользователя;<br>
-3) https://anastasiailyasova.github.io/constructor/ - конструктор бургера;<br>
+3) https://anastasiailyasova.github.io/burger-constructor/ - конструктор бургера;<br>
 
 <!--
 **AnastasiaIlyasova/AnastasiaIlyasova** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
