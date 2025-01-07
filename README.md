@@ -1,9 +1,5 @@
 <h1> Hi there 👋 </h1>
 
-<h2>About me</h2>
--I'm currently learning React as framework <br>
--My English level is B2;
-
 <h2>My last projects</h2>
 React projects:
 1) https://celebrated-zuccutto-73689b.netlify.app/ - simple Bank Account with Redux ToolKit;
