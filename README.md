@@ -11,7 +11,7 @@ React + JS projects: <br>
 ---<br>
 Js native projects:<br>
 1) https://anastasiailyasova.github.io/Weather/ - weather forecast;<br>
-2) https://652646701419ad16541e5fa6--gentle-druid-f381ed.netlify.app/ - - user authorization;<br>
+2) https://652646701419ad16541e5fa6--gentle-druid-f381ed.netlify.app/ - user authorization;<br>
 3) https://anastasiailyasova.github.io/burger-constructor/ - burger constructor;<br>
 
 <!--
