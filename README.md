@@ -2,7 +2,7 @@
 
 <h2>My last projects</h2>
 React + TS projects: <br>
-1) https://the-wild-oasis-1213.netlify.app/cabins/ - A web application for cabin booking that allows users to: view available cabins;; make a reservation by selecting dates through an interactive calendar; edit and delete bookings.  (React + TypeScript, Redux, SCSS)<br>
+1) https://the-wild-oasis-1213.netlify.app - A web application for cabin booking that allows users to: view available cabins;; make a reservation by selecting dates through an interactive calendar; edit and delete bookings.  (React + TypeScript, Redux, SCSS)<br>
 ---<br>
 React + JS projects: <br>
 1) https://celebrated-zuccutto-73689b.netlify.app/ - simple Bank Account with Redux ToolKit;<br>
